@@ -1,9 +1,7 @@
 # Shiny Visualization Project
 
-This repository contains the Shiny-based interactive visualization system developed for the dissertation project on Probability and Statistics Education.  
-It provides an intuitive platform for exploring probability distributions through visualization, interaction, and storytelling.
-
----
+This repository contains the Shiny-based interactive visualization system developed for the dissertation project in Probability and Statistics Education.  
+This tool enables learners to explore probability distributions through interactive graphics, hands-on experimentation, and storytelling elements that bring abstract ideas to life.
 
 ## Project Overview
 
